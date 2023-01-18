@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# A basic user comment card project with React
+The card created by semantic-ui implementation. Before start type in terminal "npm install @faker-js/faker --save-dev" this command will create avatar icons randomly.
+
 ## Available Scripts
 
 In the project directory, you can run:
